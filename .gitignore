@@ -1,0 +1,19 @@
+# Laravel
+/vendor
+.env
+/storage/*.key
+/public/storage
+
+# React o Next.js
+node_modules/
+.next/
+dist/
+
+# Logs y caches
+npm-debug.log
+yarn-error.log
+composer.lock
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
