@@ -7,3 +7,6 @@ RAA
 ### Nueva mejora del archivo README
 
 Este cambio fue creado desde la rama `mejora-readme` para practicar Pull Requests.
+
+
+Este proyecto ahora tiene varios colaboradores.
