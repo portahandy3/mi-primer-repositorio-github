@@ -1,6 +1,6 @@
 # mi-primer-README
 
-mi primer repositorio colaborativo 💻
+mi primer proyecto local 💻
 
 Agrego una nueva sección de prueba en mi rama nueva.
 RAA
@@ -11,3 +11,4 @@ Este cambio fue creado desde la rama `mejora-readme` para practicar Pull Request
 
 
 Este proyecto ahora tiene varios colaboradores.
+git pull origin main
