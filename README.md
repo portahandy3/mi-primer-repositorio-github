@@ -1,6 +1,6 @@
 # mi-primer-README
 
-mi primer proyecto local 💻
+mi primer proyecto en GitHub 🌐
 
 Agrego una nueva sección de prueba en mi rama nueva.
 RAA
